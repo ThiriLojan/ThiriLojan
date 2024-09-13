@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ThiriLojan
-- 👀 I’m interested in Computer And Technology
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on Coding
-- 📫 How to reach me ...
+👋 Hello, World! I'm @ThiriLojan
+🌟 Full-Stack Developer in the Making 🚀
+I'm passionate about building intuitive and responsive web applications. Currently expanding my knowledge in HTML, CSS, JavaScript, and full-stack development. I'm always eager to learn and collaborate on exciting projects!
 
-<!---
-ThiriLojan/ThiriLojan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently learning: Full-Stack Development
+👯 Looking to collaborate on open-source projects
+📫 How to reach me: thirilojan.hl@gmail.com
+⚡ Fun fact: I love exploring new tech and solving real-world problems through code.
