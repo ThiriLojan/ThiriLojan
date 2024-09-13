@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThiriLojan
 - 👀 I’m interested in Computer And Technology
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me ...
 
